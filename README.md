@@ -1,6 +1,3 @@
-Based on your description, I'll update the README to reflect the changes you've made to the original repository. These changes include the addition of ResNet50 as an entry flow network, updates to the Jupyter notebook for compatibility with the latest TensorFlow and Keras versions, and modifications to the `requirements.txt` file.
-
----
 
 # Deep Human Action Recognition With ResNet50 as Entry Flow Network
 
