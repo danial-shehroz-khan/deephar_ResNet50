@@ -1,7 +1,8 @@
-numpy>=1.13
-keras==2.1.4
-tensorflow-gpu==1.6.0
-Pillow==5.1.0
+numpy
 scipy
-h5py
+tensorflow[and-cuda]  # keras is included
 opencv-python
+Pillow
+python-multipart
+google-colab
+
